@@ -1,0 +1,4 @@
+venvmanim/
+__pycache__/
+media/
+*.exe
